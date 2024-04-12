@@ -645,6 +645,7 @@ YBTV-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://dasdasd.x3322.net:8081/hls/38/index.m3u8
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+翡翠台,http://47.106.39.230:8080/HK/tvb/hls.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 星空,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
 星空,http://wouu.net:9977/udp/239.93.0.156:2193
