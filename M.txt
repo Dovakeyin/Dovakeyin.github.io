@@ -949,6 +949,7 @@ YBTV-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 无线新闻,http://nz189l149.bb27109.ctm.net:8892/bysid/83
+星空,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
 星空,http://wouu.net:9977/udp/239.93.0.156:2193
 民視,rtmp://f13h.mine.nu/sat/tv051 
 台視,rtmp://f13h.mine.nu/sat/tv071 
@@ -998,7 +999,6 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 Now星影台,http://104.233.187.235/php/channelinfo.php?id=13003
 Now爆谷台,http://104.233.187.235/php/channelinfo.php?id=13002
 娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-东森电影,http://171.108.239.48:8181/tsfile/live/1010_1.m3u8?key=txiptv
 天映CCM,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8?key=txiptv
 
 体育频道,#genre#
