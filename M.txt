@@ -617,6 +617,18 @@ YBTV-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 松原公共,http://stream8.jlntv.cn/sytv2/sd/live.m3u8
 永吉综合,http://stream10.jlntv.cn/yongji/sd/live.m3u8
 
+辽宁,#genre#
+辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8
+辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8
+辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+辽宁教育,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
+辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8
+辽宁公共,http://59.44.192.22:65000/hls/26/index.m3u8
+辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8
+辽宁影视,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
+辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
+辽宁移动电视,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
+
 河南,#genre#
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
 郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
