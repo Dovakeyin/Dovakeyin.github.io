@@ -1,7 +1,6 @@
 公益性纯免费App，无密码，不推广，看到请别公开，谢谢！
 
 有线央卫,#genre#
-CCTV1HD,http://luwenchu.oicp.net:9981/stream/channelid/36460232?profile=pass
 CCTV1HD,http://luwenchu.oicp.net:9981/stream/channelid/1577773654?profile=pass
 CCTV2HD,http://luwenchu.oicp.net:9981/stream/channelid/1207246706?profile=pass
 CCTV3HD,http://luwenchu.oicp.net:9981/stream/channelid/1659576445?profile=pass
