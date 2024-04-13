@@ -628,6 +628,16 @@ YBTV-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 辽宁影视,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
 辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
 辽宁移动电视,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
+大连生活,http://live.cooltv.top/tv/cutv.php?id=dlsh
+大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
+大连购物,http://live.cooltv.top/tv/cutv.php?id=dlgw
+滨海新闻综合,http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
+大洼综合频道,https://cp.dawawg.com/live/dawatv/hls.m3u8
 
 河南,#genre#
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
