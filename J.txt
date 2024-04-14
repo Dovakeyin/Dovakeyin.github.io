@@ -933,7 +933,7 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 台湾75302,#genre#
-民视,p3p://108.181.20.159:75302/64251dd200003544ea55fe1c5eb00e42
+民视,p3p://108.181.20.159:39254/64251dd200003544ea55fe1c5eb00e42
 民视(b),p3p://108.181.20.159:75302/6442f24f00097e845edb5e492842265c
 民视新闻台,p3p://108.181.20.159:75302/64c859e10007934267f487ac0fa618e0
 公视,p3p://108.181.20.159:75302/64251df1000b5a9cea567a0e255d4664
