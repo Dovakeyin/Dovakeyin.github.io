@@ -1271,6 +1271,15 @@ CCTV少儿高清,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 台視,rtmp://f13h.mine.nu/sat/tv071 
 中視,rtmp://f13h.mine.nu/sat/tv091 
 华視,rtmp://f13h.mine.nu/sat/tv111 
+中视新闻,http://107.174.133.144:2095/live.m3u8?c=2
+三立新闻,http://107.174.133.144:2095/live.m3u8?c=3
+环宇新闻,http://107.174.133.144:2095/live.m3u8?c=4
+大爱,http://107.174.133.144:2095/live.m3u8?c=5
+东森新闻,http://107.174.133.144:2095/live.m3u8?c=6
+中天新闻,http://107.174.133.144:2095/live.m3u8?c=7
+民视新闻,http://107.174.133.144:2095/live.m3u8?c=8
+中天新闻2,http://107.174.133.144:2095/live.m3u8?c=10
+
 纬来体育,rtmp://f13h.mine.nu/sat/tv721 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701 
 纬来日本,rtmp://f13h.mine.nu/sat/tv771 
