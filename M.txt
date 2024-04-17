@@ -1515,11 +1515,6 @@ FIFA 足球,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0e
 吉林篮球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.212:5540
 NBA TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
-少儿频道,#genre#
-美猴王,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ed309df9d73447da014de188c44309a/1200.m3u8
-熊熊乐园3,http://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/84ab44d3c9af4460a1a9981a22489417/1200.m3u8
-小恐龙大冒险,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4857fbe33d374ca991e1a0db68c1f0ed/1200.m3u8
-
 
 咪咕直播,#genre#
 咪咕直播-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
