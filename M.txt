@@ -1590,9 +1590,7 @@ yy-电影7,http://mmitv.top/pltv/yy.php?id=24066336
 生命电视台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 唯心电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-好消息,https://epg.pw/stream/e3823ebcbb226f0ca9bf92c0d893109277baef872c9ba9a6d4f60078318770a1.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 测试频道,#genre#
@@ -1616,8 +1614,6 @@ GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 
 
 交流联系,#genre#
-作者,http://www.
-大笨梦,http://www.
 Q群一,http://www.
 217386438,http://www.
 Q群二,http://www.
