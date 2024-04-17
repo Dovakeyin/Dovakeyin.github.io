@@ -1160,19 +1160,6 @@ YBTV-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 大连新闻,http://live.cooltv.top/tv/tide.php?id=dlzh
 
-河南,#genre#
-宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
-焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
-焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
-睛彩焦作频道,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
-济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
-荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
-温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
 
 江西,#genre#
 江西都市,http://gzly.hkychina.com:6001/udp/239.252.220.238:5140
