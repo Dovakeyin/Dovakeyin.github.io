@@ -1042,7 +1042,7 @@ QTV-5,http://yt.xypxe.com:9901/tsfile/live/1015_1.m3u8
 QTV-6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
 枣庄教育频道,http://stream.zztvzd.com/2/sd/live.m3u8
-日照新闻,http://live.rzw.com.cn/xwzh/sd/live.m3u8
+日照新闻,https://live.rzw.com.cn/xwzh/sd/live.m3u8?_upt=e041b9ef1713515309
 日照图文,https://live.rzw.com.cn/fcpd/sd/live.m3u8?_upt=4aeb4a371713514805
 日照科教,https://live.rzw.com.cn/ggpd/sd/live.m3u8?_upt=e44441451713515015
 日照公共,https://live.rzw.com.cn/kzpd/sd/live.m3u8?_upt=c9d4ce6a1713515129
