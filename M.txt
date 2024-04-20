@@ -1530,6 +1530,20 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
 台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
 中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+TVB无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+EF运通,http://66.165.240.154:8080/live/gatEF01/hls.m3u8
+大爱,http://66.165.240.154:8080/live/gatda201/hls.m3u8
+超视,http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
+Star,http://66.165.240.154:8080/live/sf2xby6/hls.m3u8
+三立新闻,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+三立,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+民视新闻台,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+华视,http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
+大湾区卫视,http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
+TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+台视新闻,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
+中视,http://66.165.240.154:8080/live/ztylt06/hls.m3u8
 
 港澳台测试二,#genre#
 J2台,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MAEA6649171166491711&ct=19830&tsum=372d838121f650dcb713b00934ae7c5c
