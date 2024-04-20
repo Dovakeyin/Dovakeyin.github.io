@@ -1221,7 +1221,6 @@ YBTV-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 莲花综合频道,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
 
 四川,#genre#
-四川,#genre#
 四川公共乡村,http://171.213.2.98:4022/udp/239.93.0.52:5140
 四川妇女儿童,http://171.213.2.98:4022/udp/239.93.0.219:5140
 四川影视文艺,http://171.213.2.98:4022/udp/239.93.0.166:5140
