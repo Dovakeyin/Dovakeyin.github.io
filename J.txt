@@ -1311,7 +1311,8 @@ CCTV少儿高清,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 港澳台测试一,#genre#
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,,http://php.jdshipin.com:8880/fhhk.php
+凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 翡翠台,http://47.106.39.230:8080/HK/tvb/hls.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
