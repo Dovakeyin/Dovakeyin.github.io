@@ -1460,7 +1460,7 @@ CCTV少儿高清,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 
 港澳台测试,#genre#
-﻿凤凰中文台,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=1
+﻿凤凰中文台,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯台,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=2
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 翡翠台,http://60.30.198.43:5080/HK/gdfc/hls.m3u8
