@@ -640,6 +640,19 @@ BesTV第一财经,http://180.164.40.181:2222/udp/239.45.3.157:5140
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 
+湖南,#genre#
+湖南经视,http://dms.yryyj.site:8188/udp/239.76.253.103:9000
+湖南教育,http://dms.yryyj.site:8188/udp/239.76.252.233:9000
+湖南国际,http://dms.yryyj.site:8188/udp/239.76.253.102:9000
+湖南都市,http://dms.yryyj.site:8188/udp/239.76.253.104:9000
+湖南电影,http://dms.yryyj.site:8188/udp/239.76.253.106:9000
+湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.253.108:9000
+湖南爱晚,http://dms.yryyj.site:8188/udp/239.76.253.109:9000
+长沙政法,http://dms.yryyj.site:8188/udp/239.76.253.122:9000
+长沙影视,http://dms.yryyj.site:8188/udp/239.76.252.204:9000
+长沙新闻,http://dms.yryyj.site:8188/udp/239.76.253.121:9000
+长沙女性,http://dms.yryyj.site:8188/udp/239.76.252.23:9000
+
 湖北,#genre#
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
