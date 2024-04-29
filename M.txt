@@ -79,17 +79,11 @@ CCTV-17,http://123.115.114.183:9000/rtp/239.3.1.151:8144
 
 
 特色频道,#genre#
-CHC家庭影院,http://1.82.144.16:4022/rtp/239.112.205.205:5140
-CHC高清电影,http://1.82.144.16:4022/rtp/239.112.205.206:5140
-CHC动作电影,http://1.82.144.16:4022/rtp/239.112.205.207:5140
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 重温经典HD,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 轮播小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-老三国,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.flv
-新三国,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.flv
-新水浒,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.flv
 1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
 1905电影(国外),http://xxw.me0.cn/1905dy.php?id=1905b
 经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
@@ -1132,18 +1126,6 @@ CGTN法语,http://scjjwl.tpddns.cn:8899/udp/239.93.60.50:5140
 
 
 重庆,#genre#
-CQTV影视,http://125.82.168.238:8888/rtp/235.254.198.180:7980#http://125.82.168.238:8888/rtp/235.254.196.209:1108
-CQTV都市,http://125.82.168.238:8888/rtp/235.254.198.181:7980#http://125.82.168.238:8888/rtp/235.254.196.210:1112
-CQTV时尚,http://125.82.168.238:8888/rtp/235.254.198.182:7980#http://125.82.168.238:8888/rtp/235.254.196.211:1116
-CQTV娱乐,http://125.82.168.238:8888/rtp/235.254.198.187:7980#http://125.82.168.238:8888/rtp/235.254.196.212:1120
-CQTV公共农村,http://125.82.168.238:8888/rtp/235.254.198.186:7980#http://125.82.168.238:8888/rtp/235.254.196.213:1124
-CQTV少儿,http://125.82.168.238:8888/rtp/235.254.196.214:1128http://125.82.168.238:8888/rtp/235.254.198.10:1316
-CQTV科教,http://125.82.168.238:8888/rtp/235.254.196.215:1132
-CQTV汽摩,http://125.82.168.238:8888/rtp/235.254.196.221:1156
-睛彩重庆,http://125.82.168.238:8888/rtp/235.254.196.218:1146
-CQTV新闻超高清,http://125.82.168.238:8888/rtp/235.254.196.199:7980#http://125.82.168.238:8888/rtp/235.254.196.208:1104
-CQTV移动,http://125.82.168.238:8888/rtp/235.254.196.217:1140
-CCTV少儿高清,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 武隆,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 潼南,http://183.230.184.51:65500/tntv1.m3u8
@@ -1162,8 +1144,8 @@ CCTV少儿高清,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 凤凰中文,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰电影,http://mail.petzhu.top:7000/udp/239.254.201.1:5214
-翡翠台,https://ali.hlspull.yximgs.com/live/jade_twnkkkkkkk.flv
-明珠台,http://mtw.so/6wmyRM
+Now星影台,http://60.30.198.43:5080/HK/xy/hls.m3u8
+Now爆谷台,http://60.30.198.43:5080/HK/bg/hls.m3u8
 TVB无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 EF运通,http://66.165.240.154:8080/live/gatEF01/hls.m3u8
@@ -1177,9 +1159,6 @@ Star,http://66.165.240.154:8080/live/sf2xby6/hls.m3u8
 大湾区卫视,http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
 TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 台视新闻,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
-中视,http://66.165.240.154:8080/live/ztylt06/hls.m3u8
-now爆谷台,http://8.134.254.104:9999/channel/n7142cd1f/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
-now星影台,http://8.134.254.104:9999/channel/n7174e740/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
 星空,http://wouu.net:9977/udp/239.93.0.156:2193
 民視,rtmp://f13h.mine.nu/sat/tv051 
 台視,rtmp://f13h.mine.nu/sat/tv071 
