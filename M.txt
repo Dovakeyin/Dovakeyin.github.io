@@ -1247,8 +1247,6 @@ CGTN法语,http://scjjwl.tpddns.cn:8899/udp/239.93.60.50:5140
 凤凰电影,http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 翡翠台,http://59.35.137.4:8088/hls/118/index.m3u8
 明珠台,http://59.35.137.4:8088/hls/119/index.m3u8
-天映经典,http://59.35.137.4:8088/hls/130/index.m3u8
-TVB无线新闻台,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 EF运通,http://66.165.240.154:8080/live/gatEF01/hls.m3u8
 大爱,http://66.165.240.154:8080/live/gatda201/hls.m3u8
