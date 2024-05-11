@@ -206,6 +206,7 @@ CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140
 经典喜剧,http://live.dxms.top/dwy/jdxj1.php 
 经典喜剧,http://live.dxms.top/dwy/jdxj.php 
 回忆影院,http://live.dxms.top/dwy/hyyy.php
+真武侠,http://cfss.cc/cdn/hy/29169712.flv
 淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
 淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
