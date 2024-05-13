@@ -176,11 +176,10 @@ CHC家庭影院,http://58.37.82.140:56789/udp/239.45.0.40:5140
 CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-重温经典HD,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 轮播小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
-1905电影(国外),http://xxw.me0.cn/1905dy.php?id=1905b
+1905电影(亚洲),http://php.jdshipin.com:8880/1905.php?id=1905dy
 经典功夫,http://live.dxms.top/dwy/jdgf.php 
 经典功夫,http://live.dxms.top/dwy/jdgf1.php 
 经典电影,http://live.dxms.top/dwy/jddyt.php 
