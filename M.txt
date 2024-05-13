@@ -184,13 +184,8 @@ CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140
 经典功夫,http://live.dxms.top/dwy/jdgf1.php 
 经典电影,http://live.dxms.top/dwy/jddyt.php 
 经典影视,http://live.dxms.top/dwy/jdyst.php 
-龙腾功夫,http://live.dxms.top/dwy/ltgft.php 
-龙腾功夫,http://live.dxms.top/dwy/ltgft1.php 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
-经典怀旧,http://live.dxms.top/dwy/jdhj.php 
-经典台剧,http://live.dxms.top/dwy/jdtj.php 
 经典台剧,http://cfss.cc/cdn/yy/1355260662.flv 
-军旅剧场,http://live.dxms.top/dwy/jljc.php 
 经典剧场,http://live.dxms.top/dwy/jdjc.php 
 宫廷剧场,http://live.dxms.top/dwy/gtjc.php 
 经典清剧,http://live.dxms.top/dwy/jdqj.php 
@@ -199,9 +194,7 @@ CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140
 星光视界,http://live.dxms.top/dwy/xgsj.php 
 经典三国,http://live.dxms.top/dwy/jdsg.php 
 经典三国,http://live.dxms.top/dwy/jdsg1.php 
-经典红楼,http://live.dxms.top/dwy/jdhl.php 
 怀旧剧场,http://live.dxms.top/dwy/hjjc.php 
-经典港片,http://live.dxms.top/dwy/jdgp.php 
 经典喜剧,http://live.dxms.top/dwy/jdxj1.php 
 经典喜剧,http://live.dxms.top/dwy/jdxj.php 
 回忆影院,http://live.dxms.top/dwy/hyyy.php
