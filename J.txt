@@ -1138,8 +1138,9 @@ CCTV少儿高清,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 
 港澳台测试,#genre#
-凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://116.162.6.192:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 凤凰电影,http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 星空,http://wouu.net:9977/udp/239.93.0.156:2193
