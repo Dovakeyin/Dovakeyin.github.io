@@ -332,6 +332,19 @@ BesTV第一财经,http://180.164.40.181:2222/udp/239.45.3.157:5140
 江苏,#genre#
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
+苏州4K超清,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+江苏新闻,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.120:8000?$盐成电信组播
+江苏城市,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.107:8000?$盐成电信组播
+江苏综艺,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.108:8000?$盐成电信组播
+江苏影视,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.118:8000?$盐成电信组播
+江苏体育,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.117:8000?$盐成电信组播
+江苏教育,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.122:8000?$盐成电信组播
+苏州生活,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.116:8000?$盐成电信组播
+盐城1,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.30:8000?$盐成电信组播
+常州新闻,http://ipv4.sunjianwu.fun:8800/udp/239.49.0.221:9594?$盐成电信组播
+常州都市,http://ipv4.sunjianwu.fun:8800/udp/239.49.0.220:9590?$盐成电信组播
+常州公共,http://ipv4.sunjianwu.fun:8800/udp/239.49.0.218:9582?$盐成电信组播
+常州生活,http://ipv4.sunjianwu.fun:8800/udp/239.49.0.219:9586?$盐成电信组播
 
 湖南,#genre#
 湖南经视,http://dms.yryyj.site:8188/udp/239.76.253.103:9000
@@ -363,11 +376,6 @@ BesTV第一财经,http://180.164.40.181:2222/udp/239.45.3.157:5140
 浙江经济生活[1920x1080],https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道[1920x1080],https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-苏州,#genre#
-苏州新闻综合频道,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-苏州社会经济频道,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
-苏州文化生活频道,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-苏州生活资讯频道,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 
 河南,#genre#
 开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
