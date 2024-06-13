@@ -105,20 +105,15 @@ cgtn俄语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnr
 海南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hinws
 
 特色频道,#genre#
-CHC动作电影,http://58.37.82.140:56789/udp/239.45.0.41:5140
-CHC高清电影,http://58.37.82.140:56789/udp/239.45.0.42:5140
-CHC家庭影院,http://58.37.82.140:56789/udp/239.45.0.40:5140
-CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140
+CHC动作电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
+CHC家庭影院,http://ojbk.02200059.xyz:4022/udp/226.1.30.179:6000
+CHC影迷电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-邵氏影院,http://43.138.170.29:35455/douyu/4246519
 轮播小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 1905电影(亚洲),http://php.jdshipin.com:8880/1905.php?id=1905dy
 经典功夫,http://live.dxms.top/dwy/jdgf.php 
-经典功夫,http://live.dxms.top/dwy/jdgf1.php 
-经典电影,http://live.dxms.top/dwy/jddyt.php 
-经典影视,http://live.dxms.top/dwy/jdyst.php 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
 经典台剧,http://cfss.cc/cdn/yy/1355260662.flv 
 经典剧场,http://live.dxms.top/dwy/jdjc.php 
@@ -129,7 +124,6 @@ CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140
 星光视界,http://live.dxms.top/dwy/xgsj.php 
 经典三国,http://live.dxms.top/dwy/jdsg.php 
 经典三国,http://live.dxms.top/dwy/jdsg1.php 
-怀旧剧场,http://live.dxms.top/dwy/hjjc.php 
 经典喜剧,http://live.dxms.top/dwy/jdxj1.php 
 经典喜剧,http://live.dxms.top/dwy/jdxj.php 
 回忆影院,http://live.dxms.top/dwy/hyyy.php
